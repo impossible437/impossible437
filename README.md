@@ -1,6 +1,6 @@
 ### Hi, I'm Sambhav 👋
 
-<img src=https://user-images.githubusercontent.com/85219749/145673072-fda285d2-f770-443a-a75f-056a56fa564a.jpg>
+<img src=https://user-images.githubusercontent.com/85219749/145673124-91949ca0-928a-4124-b87f-2f95c81da0fa.jpg>
 
 <!--
 **impossible437/impossible437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
