@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 Hey there!
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/kumarsambhav437/">
+  <a href="https://www.linkedin.com/in/kumarsambhav437/" target="_blank">
 <img src=https://user-images.githubusercontent.com/85219749/188267508-d4e8fb49-8f6c-4c9f-86e4-51aeea31b4a7.png width="22px">
   </a>
 &nbsp;
-  <a href="mailto:ksambhav249@gmail.com">
+  <a href="mailto:ksambhav249@gmail.com" target="_blank">
 <img src=https://user-images.githubusercontent.com/85219749/188269564-8f292593-05e3-4a33-aac8-ffd8d66f149a.png width="23px">
   </a>
 &nbsp;
-  <a href="https://www.hackerrank.com/ksambhav249">
-<img src=https://user-images.githubusercontent.com/85219749/188272080-72c831c5-60b4-438f-891a-32539f2d4d51.svg width="25px">
+  <a href="https://www.hackerrank.com/ksambhav249" target="_blank">
+<img src=https://user-images.githubusercontent.com/85219749/188272080-72c831c5-60b4-438f-891a-32539f2d4d51.svg width="23px">
   </a>
 </p>
