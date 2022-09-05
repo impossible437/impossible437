@@ -27,7 +27,7 @@ Hey there!
 <img src=https://user-images.githubusercontent.com/85219749/188267508-d4e8fb49-8f6c-4c9f-86e4-51aeea31b4a7.png width="22px">
   </a>
 &nbsp;
-  <a href="mailto: ksambhav249@gmail.com">
+  <a href="mailto:ksambhav249@gmail.com">
 <img src=https://user-images.githubusercontent.com/85219749/188269564-8f292593-05e3-4a33-aac8-ffd8d66f149a.png width="23px">
   </a>
 &nbsp;
